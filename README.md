@@ -12,4 +12,4 @@ Jonathan Clark - 101192081
 
 Assignment description:
 
-This is a dummy description it will be changed later on :)
+The assignment simulates real world work example where each member has to create their own branch and add files in their branches. Each member is required to work in their own branches and push changes so they can be merged into master branch. Each member is required to make atleast 10 commits.
