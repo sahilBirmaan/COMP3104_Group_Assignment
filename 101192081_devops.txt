@@ -1,1 +1,1 @@
-This file will contain information about COMP 3104 DevOps course.
+This file will contain information about COMP 3104 DevOps course. This is a modification to the text.
