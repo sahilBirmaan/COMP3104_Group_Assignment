@@ -1,2 +1,0 @@
-This course, you will be finishing with concepts and knowledge needed for interviews and environment where you may be exposed to the concepts previously mentioned. The chances are quite high given the current market demand for this type of knowledge. This course won't make you a DevOps engineer, but it will shine some light in a part of the industry the developers will soon have to become much more familiar with.
-

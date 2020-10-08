@@ -1,5 +1,0 @@
-This file will contain information about COMP 3104 DevOps course
- 
-COMP3104 is a DevOps course that will provide a hands-on experience of through the implementation of tried, tested and true DevOps technologies. The course is presented by Pritesh Patel. 
-
-With the high-level overview of what DevOps is, the course also unpacks some commonly used terms and introduce ourselves to industry standard and tools that are often used in the field. 
